@@ -9,6 +9,7 @@ using UnityEngine;
 using KSP;
 using KSP.UI;
 
+#if false
 
 namespace DockingFuelPump
 {
@@ -51,3 +52,4 @@ namespace DockingFuelPump
 
 }
 
+#endif

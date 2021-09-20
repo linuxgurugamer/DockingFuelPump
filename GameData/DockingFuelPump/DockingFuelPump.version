@@ -1,0 +1,25 @@
+{
+  "NAME": "DockingFuelPump",
+  "URL": "http://ksp.spacetux.net/avc/DockingFuelPump",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/DockingFuelPump/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "DockingFuelPump"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 1,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 2
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  }
+}

@@ -1,4 +1,12 @@
 ## Change Log
+0.1.0
+	Adoption by Linuxgurugamer
+	Added .version file
+	Added AssemblyFileVersion
+	Added Settings page for configurable values
+	Changed dfp_settings.cfg to only contain resources
+	Added ability to have multiple settings files
+
 0.0.4
   - better logic for selecting parts involved in transfer (solves some cases of pump not working on more complex craft).
   - Pump Fuel button is only shown on context menu for docking ports which are docked.
